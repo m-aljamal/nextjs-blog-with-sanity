@@ -1,0 +1,9 @@
+.nav {
+  background-color: bisque;
+  padding: 20px;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+}
